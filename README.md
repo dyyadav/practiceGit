@@ -1,1 +1,1 @@
-# practiceGit
+# Git Tutorial by Dinesh
